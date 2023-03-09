@@ -13,9 +13,9 @@
 - (instancetype)init
 {
     if (self = [super init]) {
-        self.endPoint = @"https://cj-app-1301998796.cos.ap-guangzhou.myqcloud.com";
-        self.serviewName = @"yunGame.ures.UresExtObj";
-        self.functionName = @"GetCosToken";
+//        self.endPoint = @"https://cj-app-1301998796.cos.ap-guangzhou.myqcloud.com";
+//        self.serviewName = @"yunGame.ures.UresExtObj";
+//        self.functionName = @"GetCosToken";
     }
     return self;
 }

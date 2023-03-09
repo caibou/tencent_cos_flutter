@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 /** 上传二进制数据 */
 @property (nonatomic, strong) NSData *data;
 /** endPoint */
-@property(nonatomic,strong)NSString *endPoint;
+//@property(nonatomic,strong)NSString *endPoint;
 /** funcName */
 @property(nonatomic,strong)NSString *functionName;
 /** serviewName */
